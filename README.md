@@ -17,4 +17,4 @@ seata整合nacos springcloud
 - master分支  order服务和storage服务通过本地配置ip方式将RM注册到 seata-server
 
 
-- nacos-re分支 order服务和storage服务通过nacos方式将RM注册到 seata-server
+- @todo nacos-re分支 order服务和storage服务通过nacos方式将RM注册到 seata-server
