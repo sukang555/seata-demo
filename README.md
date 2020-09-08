@@ -19,3 +19,6 @@ seata整合nacos springcloud
 - nacos-re分支 order服务和storage服务通过nacos方式将RM注册到 seata-server
 
 - 支持两个服务分别连接两个数据源，以及两个服务连接一个数据源两种模式的分布式事务
+
+
+-参考文档 https://github.com/seata/seata-samples/tree/master/springcloud-nacos-seata
